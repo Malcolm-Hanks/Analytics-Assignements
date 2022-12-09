@@ -1,6 +1,6 @@
-# Analytics-Assignements
+# Analytics-Assignments
 # Data Analytics Portfolio
-This is the portfolio the assignments completed for my Data Analytics I class, taken at Southern Utah University, fall 2022 semester. 
+This is a portfolio of the assignments completed for my Data Analytics I class, taken at Southern Utah University, fall 2022 semester. 
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1DusaRS8IvtU1bJByxOiQwQS19TQ9w2Qj?usp=share_link)
